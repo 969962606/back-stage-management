@@ -1,0 +1,13 @@
+.line {
+    float: left;
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 5px;
+    height: 20px;
+    background: rgba(57, 210, 128, 1);
+}
+
+.container {
+    background: #fff;
+    @include padding;
+}

@@ -1,0 +1,25 @@
+//body
+$bodyBg: #EFF3F5;
+//nav 
+$navBg: #555555;
+$navText: #FFFFFF;
+$mainColor: #39D280;
+// sidebar
+$menuText: #FFFFFF;
+$menuActiveText: #FFFFFF;
+$subMenuActiveText: #FFFFFF;
+$menuBg: #2C2C2C;
+$menuHover: #39D280;
+$subMenuBg: #1f2d3d;
+$subMenuHover: #39D280;
+$sideBarWidth: 180px;
+:export {
+    menuText: $menuText;
+    menuActiveText: $menuActiveText;
+    subMenuActiveText: $subMenuActiveText;
+    menuBg: $menuBg;
+    menuHover: $menuHover;
+    subMenuBg: $subMenuBg;
+    subMenuHover: $subMenuHover;
+    sideBarWidth: $sideBarWidth;
+}
